@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://https://harsh531.github.io/GoogleAI-Chat",
+  "homepage": "https://harsh531.github.io/GoogleAI-Chat",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -31,3 +31,4 @@
     "vite": "^6.0.1"
   }
 }
+
